@@ -195,7 +195,7 @@
         "path": null,
         "enable_statistics": false,
         "enable_statistics_export": true,
-        "max_open_files": 10000,
+        "max_open_files": 50000,
         "col_state_cache_size": 3221225472,
         "col_flat_state_cache_size": 134217728,
         "block_size": 16384,
